@@ -1,0 +1,7 @@
+.container, .row {
+  padding: 4%;
+}
+
+.tall, .short, .tootall {
+  display: none;
+}
